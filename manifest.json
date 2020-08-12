@@ -1,0 +1,19 @@
+{
+    "Telemetry": {
+      "AppInsightKey": ""
+    },
+    "Version": {
+      "Manifest": "v4",
+      "ManifestMinWebPart": "4.0.0",
+      "CurrentWebPart": "4.1.2",
+      "RepoURL": "https://github.com/RyanCCBS/lptest"
+    },
+    "ContentPacks": [],
+    "AssetOrigins": [
+      "https://support.office.com",
+      "https://docs.microsoft.com"
+    ],
+    "Languages": [
+      "en-US"
+    ]
+  }
