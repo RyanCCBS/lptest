@@ -45,8 +45,8 @@
     },
     {
       "Id": "064da91f-ce88-474f-bd3b-a0f03155a5f1",
-      "Title": "Our Site for proof",
-      "Description": "This is just our site to show a custom page",
+      "Title": "Test Site for proof",
+      "Description": "This is just a test site to show a custom page",
       "Url": "https://learningpathwaystraining.z9.web.core.windows.net/MoWoContent/teamsremove.html",
       "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
       "SubjectId": "",
