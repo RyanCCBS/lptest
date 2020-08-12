@@ -1,0 +1,21 @@
+[
+    {
+        "Id": "c5905e35-74f2-4faa-a0c9-c3b3dec18726",
+        "Title": "Creating a Team for a Project",
+        "Image": "",
+        "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+        "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+        "TechnologId": "",
+        "SubjectId": "",
+        "CatId": "0317161b-0fad-43eb-abb0-d7c2e18015f1",
+        "Description": "Learn how to plan and create a team for projects",
+        "StatusTagId": "",
+        "StatusNote": "",
+        "Assets": [
+            "c3d63c10-77d5-4204-a566-53ddcf723b46",
+            "51a6abf0-6f5b-4092-9872-5b517c5a8bd8",
+            "0dd16bbf-febf-4de4-95d4-853772ea3809",
+            "92d238e6-0ae2-447e-af90-40b1052c4547"
+        ]
+    }
+]

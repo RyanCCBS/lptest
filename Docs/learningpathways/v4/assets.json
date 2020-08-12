@@ -1,0 +1,46 @@
+[    
+    {
+        "Id": "c3d63c10-77d5-4204-a566-53ddcf723b46",
+        "Title": "Overview of teams and channels",
+        "Description": "",
+        "Url": "https://support.office.com/en-us/client/c3d63c10-77d5-4204-a566-53ddcf723b46?embed=true",
+        "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+        "SubjectId": "",
+        "Source": "Microsoft",
+        "StatusTagId": "",
+        "StatusNote": ""
+    },
+    {
+      "Id": "51a6abf0-6f5b-4092-9872-5b517c5a8bd8",
+      "Title": "Create and organize teams",
+      "Description": "Create and organize teams",
+      "Url": "https://support.office.com/en-us/client/104c7d91-b25a-453d-beee-ba64b6c6fc2d?embed=true",
+      "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+      "SubjectId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+      "Source": "SOC",
+      "StatusTagId": "",
+      "StatusNote": ""
+    },
+    {
+      "Id": "0dd16bbf-febf-4de4-95d4-853772ea3809",
+      "Title": "Get your team up and running",
+      "Description": "",
+      "Url": "https://support.office.com/en-us/client/702a2977-e662-4038-bef5-bdf8ee47b17b?embed=true",
+      "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "",
+      "StatusNote": ""
+    },
+    {
+      "Id": "92d238e6-0ae2-447e-af90-40b1052c4547",
+      "Title": "Go-to guide for team owners",
+      "Description": "",
+      "Url": "https://support.office.com/en-us/client/92d238e6-0ae2-447e-af90-40b1052c4547?embed=true",
+      "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "StatusTagId": "",
+      "StatusNote": ""
+    }
+]
