@@ -11,7 +11,8 @@
     "ContentPacks": [],
     "AssetOrigins": [
       "https://support.office.com",
-      "https://docs.microsoft.com"
+      "https://docs.microsoft.com",
+      "https://learningpathwaystraining.z9.web.core.windows.net/"
     ],
     "Languages": [
       "en-US"
